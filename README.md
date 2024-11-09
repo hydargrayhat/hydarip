@@ -14,6 +14,9 @@
 
 ![Screenshot](screenshot/screenshot_error.png)
 # fix install.py error " error: externally-managed-environment "
-first activate this comand then next install ```install.py```
+
 ```python3 -m venv venv```
+
 ```source venv/bin/activate```
+
+```install.py```
